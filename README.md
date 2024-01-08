@@ -1,12 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=90" />
 
-### Hi there 👋
+# Hi there 👋
 
-# 🤗 About me ...
-- 백엔드 신입 개발자 박정민입니다. <br/>
-- 한국외국어대학교 컴퓨터전자시스템공학부 4학년 1학기를 마치고 휴학중입니다.
+## 🤗 About me ...
+- 백엔드 신입 개발자 박정민입니다. <br />
+- 한국외국어대학교 컴퓨터전자시스템공학부 휴학중
+- 2024년 8월 졸업예정
 <!-- - 나를 나타내는 키워드 3가지 -->
-
+- <a href="https://pouncing-swallow-f5f.notion.site/48c74e5ae3344b6bb982f3dc8a10bb6c">이력서</a>
 ## 🔭 I’m currently working on ...
 
 ## 🌱 I’m currently learning ...
@@ -67,7 +68,7 @@
   <!--visualstudiocode-->
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
   <!--pycharm-->
-    <img src="https://img.shields.io/badge/visualstudiocode-000000?style=flat-square&logo=pycharm&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=ffffff"/>
   <!--figma-->
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff"/>
 </ul>
@@ -99,5 +100,4 @@
 </p>
    
 
-
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
