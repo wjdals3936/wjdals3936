@@ -8,6 +8,7 @@
 - 2024년 8월 졸업예정
 <!-- - 나를 나타내는 키워드 3가지 -->
 - <a href="https://pouncing-swallow-f5f.notion.site/48c74e5ae3344b6bb982f3dc8a10bb6c">이력서</a>
+<!--
 ## 🔭 I’m currently working on ...
 
 ## 🌱 I’m currently learning ...
@@ -23,7 +24,7 @@
 ## 😄 Pronouns: ...
 
 ## ⚡ Fun fact: ...
-
+-->
 <!-- 사용한 언어 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
 
