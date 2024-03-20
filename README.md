@@ -120,7 +120,7 @@
   
 - nonage 2023.08
   
-  <a href="https://github.com/wjdals3936/Spring_shoppingMall">쇼핑몰 고도화</a>
+  <a href="https://github.com/wjdals3936/Spring_shoppingMall">Spring MVC 구조로 고도화 프로젝트</a>
   
 
 - 캡스톤  2023.04 - 2023.06
