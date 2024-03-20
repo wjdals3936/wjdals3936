@@ -126,7 +126,7 @@
     
     <a href="https://github.com/HUFSCapstoneDesign">이커머스 플랫폼 상에서의 상품 상세 페이지 제작 도구 개발 프로젝트</a>
     
-- 외청 / HUFStory  2022.02 - 2022.03
+- HUFStory  2022.02 - 2022.03
     
     <a href="https://github.com/wjdals3936/hufspetition-frontend">외대 청원 웹사이트 개발 프로젝트</a>
 
