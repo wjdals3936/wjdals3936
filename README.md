@@ -1,30 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=90" />
 
-# Hi there 👋
-
 ## 🤗 About me ...
-- 백엔드 신입 개발자 박정민입니다. <br />
-- 한국외국어대학교 컴퓨터전자시스템공학부 휴학중
+- "안녕하세요. 사용자 경험을 우선으로 생각하는 백엔드 엔지니어 박정민입니다.” <br />
+- 한국외국어대학교 컴퓨터전자시스템공학부 휴학중 <br />
+- 개념에 대해 정확하게 이해하는 것을 좋아하고 맡은 바 책임감을 갖고 성실하게 임하는 자세를 가지고 있습니다. <br />
+- 모르는 것은 스스로 학습하고 질문하여 빠르게 나의 것으로 만들고 상대방의 의견에 귀를 기울일 줄 아는 개발자입니다.
 - 2025년 8월 졸업예정
-<!-- - 나를 나타내는 키워드 3가지 -->
-- <a href="https://pouncing-swallow-f5f.notion.site/48c74e5ae3344b6bb982f3dc8a10bb6c">이력서</a>
-<!--
-## 🔭 I’m currently working on ...
 
-## 🌱 I’m currently learning ...
-
-## 👯 I’m looking to collaborate on ...
-
-## 🤔 I’m looking for help with ...
-
-## 💬 Ask me about ...
-
-## 📫 How to reach me: ...
-
-## 😄 Pronouns: ...
-
-## ⚡ Fun fact: ...
--->
 <!-- 사용한 언어 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
 
