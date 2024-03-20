@@ -5,7 +5,7 @@
 ## 🤗 About me ...
 - 백엔드 신입 개발자 박정민입니다. <br />
 - 한국외국어대학교 컴퓨터전자시스템공학부 휴학중
-- 2024년 8월 졸업예정
+- 2025년 8월 졸업예정
 <!-- - 나를 나타내는 키워드 3가지 -->
 - <a href="https://pouncing-swallow-f5f.notion.site/48c74e5ae3344b6bb982f3dc8a10bb6c">이력서</a>
 <!--
@@ -54,8 +54,6 @@
      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
    <!--mariadb-->
      <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=ffffff"/>
-   <!--oracledb-->
-     <img src="https://img.shields.io/badge/oracle-003545?style=flat-square&logo=oracle&logoColor=ffffff"/>
 </ul>
 
 ### IDE
