@@ -134,6 +134,18 @@
 
     <a href="https://github.com/wjdals3936/gameproject">아이스크림 버블 슈팅 파이게임 개발 프로젝트</a>
 
+<br />
+
+### How i work
+- 목표 달성도 중요하지만 일의 과정에서 재미를 찾는 편이에요.
+- 창의적인 아이디어는 그 자체로 동기부여가 됩니다.
+- 문제가 생겨도 그 상황 안에서 일을 진행할 수 있는 방향을 찾습니다.
+- 함께 정한 기한은 반드시 지키려고 노력해요.
+
+## Contact
+✉️   3936vldzm@naver.com
+📄 <a href="https://pouncing-swallow-f5f.notion.site/0964b8dd134b4247bcf36ef943096136?pvs=4">포트폴리오</a>
+
 <!-- 사용한 언어 비율 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
 -->
