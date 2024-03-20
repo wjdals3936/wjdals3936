@@ -1,24 +1,44 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=90" />
 
-## 🤗 About me ...
+## 🙌 Hi, there!
 <p>
-- "안녕하세요. 사용자 경험을 우선으로 생각하는 백엔드 엔지니어 박정민입니다.” <br />
-- 한국외국어대학교 컴퓨터전자시스템공학부 휴학 <br />
-- 개념에 대해 정확하게 이해하는 것을 좋아하고 맡은 바 책임감을 갖고 성실하게 임하는 자세를 가지고 있습니다. <br />
-- 모르는 것은 스스로 학습하고 질문하여 빠르게 나의 것으로 만들고 상대방의 의견에 귀를 기울일 줄 아는 개발자입니다.
+"안녕하세요. 사용자 경험을 우선으로 생각하는 백엔드 엔지니어 박정민입니다.” <br />
+개념에 대해 정확하게 이해하는 것을 좋아하고 맡은 바 책임감을 갖고 성실하게 임하는 자세를 가지고 있습니다. <br />
+모르는 것은 스스로 학습하고 질문하여 빠르게 나의 것으로 만들고 상대방의 의견에 귀를 기울일 줄 아는 개발자입니다.
 </p>
+<br />
 
-## 사용 가능한 기술 스택
+## ⚒️ Skill
 <p>
+
+### Front-end
 <ul align="center">
+  <!--html-->
+   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=ffffff"/>
+  <!--css-->
+   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=ffffff"/>
   <!--js-->
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/>
+  <!--react-->
+   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/>
+  <!--google chart-->
+    <img src="https://img.shields.io/badge/google chart-4285F4?style=flat-square&logoColor=ffffff"/>
+</ul>
+
+### Back-end
+<ul align="center">
+  <!--python-->
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffffff"/>
   <!--java-->
    <img src="https://img.shields.io/badge/java-ED1D25?style=flat-square&logo=java&logoColor=ffffff"/>
   <!--spring-->
    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff"/>
   <!--spring boot-->
    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=spring&logoColor=ffffff"/>
+  <!--Swagger-->
+   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=ffffff"/>
+  <!--Django-->
+   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=ffffff"/>
 </ul>
 
 ### DB
@@ -44,14 +64,15 @@
   <!--figma-->
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff"/>
 </ul>
-   
-## Collaboration
+
   ### 버전 관리
   <ul align="center">
     <!--git-->
       <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=ffffff"/>
     <!--github-->
       <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=ffffff"/>
+    <!--SourceTree-->
+      <img src="https://img.shields.io/badge/sourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=ffffff"/>
       </ul>
   
   ### 소통
@@ -70,7 +91,7 @@
       <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=ffffff"/>
     </ul>
 </p>
-
+<br />
 <!-- 사용한 언어 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
 
