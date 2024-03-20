@@ -142,6 +142,8 @@
 - 문제가 생겨도 그 상황 안에서 일을 진행할 수 있는 방향을 찾습니다.
 - 함께 정한 기한은 반드시 지키려고 노력해요.
 
+<br />
+
 ## Contact
 ✉️   3936vldzm@naver.com
 📄 <a href="https://pouncing-swallow-f5f.notion.site/0964b8dd134b4247bcf36ef943096136?pvs=4">포트폴리오</a>
