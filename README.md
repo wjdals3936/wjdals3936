@@ -1,11 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=90" />
 
 ## 🤗 About me ...
+<p>
 - "안녕하세요. 사용자 경험을 우선으로 생각하는 백엔드 엔지니어 박정민입니다.” <br />
 - 한국외국어대학교 컴퓨터전자시스템공학부 휴학 <br />
 - 개념에 대해 정확하게 이해하는 것을 좋아하고 맡은 바 책임감을 갖고 성실하게 임하는 자세를 가지고 있습니다. <br />
 - 모르는 것은 스스로 학습하고 질문하여 빠르게 나의 것으로 만들고 상대방의 의견에 귀를 기울일 줄 아는 개발자입니다.
-  
+</p>
+
 ## 사용 가능한 기술 스택
 <p>
 <ul align="center">
