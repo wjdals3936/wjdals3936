@@ -127,9 +127,13 @@
     
     <a href="https://github.com/HUFSCapstoneDesign">이커머스 플랫폼 상에서의 상품 상세 페이지 제작 도구 개발 프로젝트</a>
     
-- HUFStory  2022.02 - 2022.03
+- 외청 / HUFStory  2022.02 - 2022.03
     
     <a href="https://github.com/wjdals3936/hufspetition-frontend">외대 청원 웹사이트 개발 프로젝트</a>
+
+- 아이스크림 슈팅 게임 2022.05 - 2022.06
+
+    <a href="https://github.com/wjdals3936/gameproject">아이스크림 버블 슈팅 게임 개발 프로젝트</a>
 
 <!-- 사용한 언어 비율 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
