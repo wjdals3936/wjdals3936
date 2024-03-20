@@ -116,15 +116,20 @@
 ### Projects
 - Job-a  2023.11 - 2023.12
     
-    개발자를 위한 취업 플랫폼 - Open API를 활용한 MSA 프로젝트
+    <a href="https://github.com/miracle-job-a">개발자를 위한 취업 플랫폼 - Open API를 활용한 MSA 프로젝트</a>
   
+- nonage 2023.08
+  
+  <a href="https://github.com/wjdals3936/Spring_shoppingMall">쇼핑몰 고도화</a>
+  
+
 - 캡스톤  2023.04 - 2023.06
     
-    이커머스 플랫폼 상에서의 상품 상세 페이지 제작 도구 개발 프로젝트
+    <a href="https://github.com/HUFSCapstoneDesign">이커머스 플랫폼 상에서의 상품 상세 페이지 제작 도구 개발 프로젝트</a>
     
 - HUFStory  2022.02 - 2022.03
     
-    외대 청원 웹사이트 개발 프로젝트
+    <a href="https://github.com/wjdals3936/hufspetition-frontend">외대 청원 웹사이트 개발 프로젝트</a>
 
 <!-- 사용한 언어 비율 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
