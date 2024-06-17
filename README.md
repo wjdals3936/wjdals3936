@@ -53,12 +53,14 @@
      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
    <!--mariadb-->
      <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=ffffff"/>
+   <!--postgreSQL-->
+     <img src="https://img.shields.io/badge/postgresql-003545?style=flat-square&logo=postgresql&logoColor=ffffff"/>
 </ul>
 <br />
 
 ### IDE
 <ul align="center">
-  <!--intellijidea-->
+  <!--intelliJidea-->
     <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=ffffff"/>
   <!--eclipseide-->
     <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=ffffff"/>
@@ -68,6 +70,13 @@
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
   <!--pycharm-->
     <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=ffffff"/>
+  <br />
+  <!--Linux-->
+    <img src="https://img.shields.io/badge/linux-000000?style=flat-square&logo=Linux&logoColor=ffffff"/>  
+  <!--putty-->
+    <img src="https://img.shields.io/badge/putty-000000?style=flat-square&logo=putty&logoColor=ffffff"/>  
+  <!--mobaxterm-->
+    <img src="https://img.shields.io/badge/mobaxterm-000000?style=flat-square&logo=mobaxterm&logoColor=ffffff"/>  
   <!--figma-->
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff"/>
 </ul>
@@ -79,6 +88,8 @@
       <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=ffffff"/>
     <!--github-->
       <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=ffffff"/>
+    <!--svn-->
+      <img src="https://img.shields.io/badge/svn-181717?style=flat-square&logo=svn&logoColor=ffffff"/>
     <!--SourceTree-->
       <img src="https://img.shields.io/badge/sourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=ffffff"/>
       </ul>
@@ -112,9 +123,6 @@
 <br />
     
 ### Projects
-- EFFI  2024.05 - 현재 진행중
-    
-    <a href="https://github.com/part4-project">WebRTC기술을 활용한 화상 회의 업무 협업 툴 개발 프로젝트</a>
 
 - Job-a  2023.11 - 2023.12
     
