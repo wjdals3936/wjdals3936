@@ -1,15 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=90" />
 
-<!-- 본인의 깃허브에 대한 평판 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-
 ## 🙌 Hi, there!
-<p>
 - 개념에 대해 정확하게 이해하는 것을 좋아하고 맡은 바 책임감을 갖고 성실하게 임하는 자세를 가지고 있습니다. </br>
 - 모르는 것은 스스로 학습하고 질문하여 빠르게 나의 것으로 만드는 특성을 가지고 있습니다. </br>
 - 명확하고 원활한 소통 능력과 긍정적이고 유연한 사고를 가지고 상대방의 의견에 귀를 기울일 줄 아는 개발자입니다.
-</p>
+<br />
+
+<!-- 본인의 깃허브에 대한 평판 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 <br />
 
 ## ⚒️ Skill
@@ -118,7 +117,7 @@
 </p>
 <br />
 
-### Education
+## Education
 
 - 한국외국어대학교 컴퓨터전자시스템공학부 휴학  2022.02 - 현재
 
@@ -126,7 +125,7 @@
 
 <br />
     
-### Projects
+## Projects
 
 - Job-a  2023.11 - 2023.12
     
@@ -151,7 +150,7 @@
 
 <br />
 
-### How i work
+## How i work
 - 목표 달성도 중요하지만 일의 과정에서 재미를 찾는 편이에요.
 - 창의적인 아이디어는 그 자체로 동기부여가 됩니다.
 - 문제가 생겨도 그 상황 안에서 일을 진행할 수 있는 방향을 찾습니다.
