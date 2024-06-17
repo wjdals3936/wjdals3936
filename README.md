@@ -161,7 +161,7 @@
 ## Contact
 ✉️   3936vldzm@naver.com
 📄 <a href="https://pouncing-swallow-f5f.notion.site/0964b8dd134b4247bcf36ef943096136?pvs=4">포트폴리오</a>
-<a href="https://mangocoding-journal.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/>블로그</a>
+<a href="https://mangocoding-journal.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 
 <!-- 사용한 언어 비율 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdals3936)](https://github.com/anuraghazra/github-readme-stats)
