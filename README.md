@@ -72,7 +72,11 @@
     <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=ffffff"/>
   <br />
   <!--Linux-->
-    <img src="https://img.shields.io/badge/linux-000000?style=flat-square&logo=Linux&logoColor=ffffff"/>  
+    <img src="https://img.shields.io/badge/linux-000000?style=flat-square&logo=Linux&logoColor=ffffff"/>
+  <!--VMware-->
+    <img src="https://img.shields.io/badge/vmware-000000?style=flat-square&logo=VMware&logoColor=ffffff"/>
+  <!--CentOS-->
+    <img src="https://img.shields.io/badge/centOS-000000?style=flat-square&logo=CentOS&logoColor=ffffff"/>
   <!--putty-->
     <img src="https://img.shields.io/badge/putty-000000?style=flat-square&logo=putty&logoColor=ffffff"/>  
   <!--mobaxterm-->
