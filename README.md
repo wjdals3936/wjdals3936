@@ -76,10 +76,17 @@
     <img src="https://img.shields.io/badge/vmware-000000?style=flat-square&logo=VMware&logoColor=ffffff"/>
   <!--CentOS-->
     <img src="https://img.shields.io/badge/centOS-000000?style=flat-square&logo=CentOS&logoColor=ffffff"/>
+  <!--Locky-->
+    <img src="https://img.shields.io/badge/locky-000000?style=flat-square&logo=locky&logoColor=ffffff"/>
   <!--putty-->
     <img src="https://img.shields.io/badge/putty-000000?style=flat-square&logo=putty&logoColor=ffffff"/>  
   <!--mobaxterm-->
     <img src="https://img.shields.io/badge/mobaxterm-000000?style=flat-square&logo=mobaxterm&logoColor=ffffff"/>  
+  <br />
+  <!--heidisql-->
+    <img src="https://img.shields.io/badge/heidiSQL-000000?style=flat-square&logo=heidiSQL&logoColor=ffffff"/>  
+  <!--DBeaver-->
+    <img src="https://img.shields.io/badge/DBeaver-000000?style=flat-square&logo=DBeaver&logoColor=ffffff"/>  
   <!--figma-->
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff"/>
 </ul>
