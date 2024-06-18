@@ -63,8 +63,6 @@
     <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=ffffff"/>
   <!--eclipseide-->
     <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=ffffff"/>
-  <!--googlecolab-->
-    <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=ffffff"/>
   <!--visualstudiocode-->
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
   <!--pycharm-->
